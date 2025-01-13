@@ -1,6 +1,8 @@
 # Lee Min Young
-## INHA Univ
-### Artificial Intelligence
+<i>
+  🏫 Inha Univ.
+  📖 Artificial Intelligence
+<hr border=0>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2ming0&layout=compact)
